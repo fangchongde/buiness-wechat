@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@dcloudio/types": "^3.4.19",
+    "@dcloudio/uni-helper-json": "^1.0.13",
+    "@types/node": "^24.3.0",
+    "@types/wechat-miniprogram": "^3.4.8",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+  }
+}
