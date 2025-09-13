@@ -57,7 +57,7 @@
         </div>
 
         <!-- 核心指标卡片 -->
-        <section class="kpi-section">
+        <!-- <section class="kpi-section">
             <div class="kpi-container">
                 <h2 class="section-title">核心经营指标</h2>
                 <div class="kpi-grid">
@@ -172,7 +172,6 @@
                     </div>
                 </div>
 
-                <!-- 总公司汇总指标 -->
                 <h2 class="section-title" style="margin-top: 2rem">
                     总公司汇总指标
                 </h2>
@@ -186,7 +185,6 @@
                     >
                         <div class="kpi-header">
                             <div class="kpi-icon">
-                                <!-- <component :is="kpi.icon" class="w-5 h-5" /> -->
                             </div>
                             <div class="kpi-trend" :class="kpi.trend">
                                 <TrendingUp
@@ -212,7 +210,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- 图表分析区域 -->
         <section class="charts-section">
