@@ -14,3 +14,4 @@ auto-*.d.ts
 /uni_modules
 /unpackage
 *.tsbuildinfo
+.env
